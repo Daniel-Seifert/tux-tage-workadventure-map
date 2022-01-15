@@ -1318,7 +1318,7 @@
  </layer>
  <layer id="8" name="jitsi_kneipe_1" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_1"/>
   </properties>
   <data encoding="csv">

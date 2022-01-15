@@ -712,7 +712,7 @@
  </tileset>
  <layer id="8" name="jitsi_kneipe_1" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_1"/>
   </properties>
   <data encoding="csv">
@@ -770,7 +770,7 @@
  </layer>
  <layer id="37" name="jitsi_kneipe_2" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_2"/>
   </properties>
   <data encoding="csv">
@@ -828,7 +828,7 @@
  </layer>
  <layer id="39" name="jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -886,7 +886,7 @@
  </layer>
  <layer id="40" name="jitsi_kneipe_4" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_4"/>
   </properties>
   <data encoding="csv">
@@ -944,7 +944,7 @@
  </layer>
  <layer id="41" name="jitsi_server_1" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_server_1"/>
   </properties>
   <data encoding="csv">
@@ -1002,7 +1002,7 @@
  </layer>
  <layer id="42" name="jitsi_server_2" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_server_2"/>
   </properties>
   <data encoding="csv">
@@ -1060,7 +1060,7 @@
  </layer>
  <layer id="43" name="jitsi_server_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_server_3"/>
   </properties>
   <data encoding="csv">
@@ -1118,7 +1118,7 @@
  </layer>
  <layer id="44" name="jitsi_games_1" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_games_1"/>
   </properties>
   <data encoding="csv">
@@ -1176,7 +1176,7 @@
  </layer>
  <layer id="45" name="jitsi_games_2" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="jitsi_games_2"/>
   </properties>
   <data encoding="csv">
@@ -1234,7 +1234,7 @@
  </layer>
  <layer id="46" name="jitsi_games_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_games_3"/>
   </properties>
   <data encoding="csv">
@@ -1292,7 +1292,7 @@
  </layer>
  <layer id="47" name="jitsi_beginners_1" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_beginners_1"/>
   </properties>
   <data encoding="csv">
@@ -1350,7 +1350,7 @@
  </layer>
  <layer id="48" name="jitsi_beginners_2" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_beginners_2"/>
   </properties>
   <data encoding="csv">
@@ -1408,7 +1408,7 @@
  </layer>
  <layer id="49" name="jitsi_beginners_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_beginners_3"/>
   </properties>
   <data encoding="csv">
@@ -1466,7 +1466,7 @@
  </layer>
  <layer id="50" name="jitsi_beginners_4" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_beginners_4"/>
   </properties>
   <data encoding="csv">
@@ -1578,7 +1578,7 @@
  </layer>
  <layer id="52" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1636,7 +1636,7 @@
  </layer>
  <layer id="53" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1694,7 +1694,7 @@
  </layer>
  <layer id="54" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1752,7 +1752,7 @@
  </layer>
  <layer id="55" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1810,7 +1810,7 @@
  </layer>
  <layer id="56" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1868,7 +1868,7 @@
  </layer>
  <layer id="57" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1926,7 +1926,7 @@
  </layer>
  <layer id="58" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -1984,7 +1984,7 @@
  </layer>
  <layer id="59" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2042,7 +2042,7 @@
  </layer>
  <layer id="60" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2100,7 +2100,7 @@
  </layer>
  <layer id="61" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2158,7 +2158,7 @@
  </layer>
  <layer id="62" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2216,7 +2216,7 @@
  </layer>
  <layer id="63" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2274,7 +2274,7 @@
  </layer>
  <layer id="64" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2332,7 +2332,7 @@
  </layer>
  <layer id="65" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
@@ -2448,7 +2448,7 @@
  </layer>
  <layer id="66" name="Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von jitsi_kneipe_3" width="50" height="50">
   <properties>
-   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: true }"/>
+   <property name="jitsiConfig" value="{ &quot;startWithAudioMuted&quot;: false }"/>
    <property name="jitsiRoom" value="tux-tage_kneipe_3"/>
   </properties>
   <data encoding="csv">
