@@ -475,7 +475,7 @@
  </tileset>
  <layer id="33" name="schatz" width="150" height="150">
   <properties>
-   <property name="openWebsite" value="https://www.tux-tage.de/wa-schatz"/>
+   <property name="openWebsite" value="https://translate.google.com/?hl=de&sl=de&tl=es&text=Danke%20fürs%20Kommen&op=translate"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

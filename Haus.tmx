@@ -3870,7 +3870,7 @@
  </layer>
  <layer id="10" name="programm" width="50" height="50">
   <properties>
-   <property name="openWebsite" value="https://www.tux-tage.de/programm/"/>
+   <property name="openWebsite" value="https://garticphone.com/"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
